@@ -1,0 +1,9 @@
+# QLabel
+# QComboBox
+# QCheckBox
+# QRadioButton
+# QPushButton
+# QTableWidget
+# QLineEdit
+# QSlider
+# QProgressBar
